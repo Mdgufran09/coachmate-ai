@@ -25,3 +25,4 @@ Database: PostgreSQL/prisma
 AI Integration: OpenAI API
 
 Deployment: Vercel 
+# coachmate
