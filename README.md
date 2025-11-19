@@ -26,3 +26,4 @@ AI Integration: OpenAI API
 
 Deployment: Vercel 
 # coachmate
+# coachmate
